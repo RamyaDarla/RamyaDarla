@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @RamyaDarla
-- 👀 I’m interested in   Web Development
-- 🌱 I’m currently learning MongoDB
-- 💞️ I’m looking to collaborate on to make interactive pages
-- 📫 How to reach me ... mail me :ramyadarla09@gmail.com
+  
+- 📫 To reach me out  ... mail me :ramyadarla09@gmail.com
 
 
 <!---
